@@ -1,2 +1,2 @@
 #!/bin/bash
-0
+mv /tmp/betty /tmp/my_first_directory
